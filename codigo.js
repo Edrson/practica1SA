@@ -12,7 +12,7 @@ function callback(){
 
   function otraFuncion(callback) {
 	document.write('Ejecutando funcion principal.'+"<br>");
-	console.log('Ejecutando funcion principal.');
+	console.log('Ejecutando la funcion principal.');
 	callback();
   }
   
