@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Edrson/practica1SA#readme",
   "dependencies": {
     "chai": "^4.2.0",
+    "express": "^4.17.1",
     "mocha": "^8.2.1"
   }
 }
