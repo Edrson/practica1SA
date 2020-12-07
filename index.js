@@ -9,4 +9,4 @@ res.send ('hola mundo');
 // escucha el puerto 3000 por defecto 
 app.listen (process.env.PORT || 3000); 
  
-module.exports = aplicación;
+module.exports = app;
