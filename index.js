@@ -7,6 +7,7 @@ app.get ('/', function (req, res) {
 res.send ('hola mundo'); 
 });
 // escucha el puerto 3000 por defecto 
+console.log('aplicacion escuchando en el puerto 3000...')
 app.listen (process.env.PORT || 3000); 
  
 module.exports = app;

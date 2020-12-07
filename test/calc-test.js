@@ -13,7 +13,8 @@ describe("Testing assert funcion: ", function () {
   });
 });
 
-/*describe("Testing should funcion: ", function () {
+
+describe("Testing should funcion: ", function () {
     describe("Check addTest Function", function () {
       it("Check the returned value using : result.should.be.equal(value, value): ", function () {
         result = cal.addTEst(1, 1);
@@ -22,6 +23,7 @@ describe("Testing assert funcion: ", function () {
     });
   });
 
+  /*
   describe("Testing expect funcion: ", function () {
     describe("Check addTest Function", function () {
       it("Check the returned value using :  expect(result).to.be.a(value);: ", function () {
