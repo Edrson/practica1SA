@@ -18,7 +18,7 @@ describe("Testing should funcion: ", function () {
     describe("Check addTest Function", function () {
       it("Check the returned value using : result.should.be.equal(value, value): ", function () {
         result = cal.addTEst(1, 1);
-        result.should.be.equal(2);
+        result.should.be.equal(3);
       });
     });
   });
