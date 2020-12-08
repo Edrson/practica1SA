@@ -8,7 +8,7 @@ describe("Testing assert funcion: ", function () {
   describe("Check addTest Function", function () {
     it("Check the returned value using : assert.equal(value, value): ", function () {
       result = cal.addTEst(1, 1);
-      assert.equal(result, 5);
+      assert.equal(result, 4);
     });
   });
 });
