@@ -21,8 +21,8 @@ describe("Testing should funcion: ", function () {
         result.should.be.equal(2);
       });
     });
-  });*/
-
+  });
+*/
   /*
   describe("Testing expect funcion: ", function () {
     describe("Check addTest Function", function () {
